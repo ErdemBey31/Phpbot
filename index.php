@@ -1,6 +1,6 @@
 <?php
 
-use Nutgram\Nutgram;
+use SergiX44\Nutgram\Nutgram;
 
 $bot = new Nutgram('6547641979:AAGcBSptkK2EtRqD_w0xSoWYuUHIbsNMeLU');
 
